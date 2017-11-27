@@ -2,7 +2,7 @@
 #                                                                        README
 #
 --------------------------------------------------------------------- Beschreibung -----------------------------------------------------------------------------------------
-Bei diesem Programm werden mit Hilfe von "Scrapy" je nach konfiguration mehrere Google seiten nach .at Domänen durchsucht und alle in eine Datenbank gespeichert.
+Bei diesem Programm werden mit Hilfe von "Scrapy" je nach Konfiguration mehrere Google seiten nach .at Domänen durchsucht und alle in eine Datenbank gespeichert.
 Sie können in der "webscraping.ini" Datei konfigurieren wie die Datenbank heißen soll, 
 wie viele google seiten sie scrapen möchten und wie das .json output file von Scrapy heißen soll. 
 
